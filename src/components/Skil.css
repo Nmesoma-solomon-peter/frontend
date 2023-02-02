@@ -1,0 +1,22 @@
+.skil{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.progress-bar{
+    background-color: #D07C4C;
+}
+.progress{
+    width: 400px;
+}
+@media (max-width:400px) {
+    .skh5{
+        font-size: 10px;
+    }
+    .progress{
+        width: 180px;
+    }
+    /* .prog{
+        width: 2%;
+    } */
+}

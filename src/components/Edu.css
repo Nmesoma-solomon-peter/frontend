@@ -1,0 +1,21 @@
+.skilrow{
+    border-left:2px solid #D07C4C;
+}
+.skildate{
+    background-color: #D07C4C;
+    width: 95px;
+    padding: 4px;
+    /* padding: 2% 5%; */
+}
+.skilh3{
+    font-weight: 600;
+}
+.skilp{
+    font-size: 14px;
+}
+
+@media (min-width:400px) {
+    .edu{
+        padding: 0px;
+    }
+}

@@ -1,0 +1,31 @@
+.navbar{
+    padding: 1% 10%;
+}
+.header{
+    position: fixed;
+    z-index: 3px;
+    width: 100%;
+}
+.logo{
+    width: 50px;
+}
+.nav-link{
+    color: #fff;
+}
+.nav-link:hover{
+border-bottom: 2px solid #D07C4C;
+}
+
+@media (max-width:400px) {
+    .navbar{
+        padding: 1% 3%;
+    }
+    .logo{
+        width: 50px;
+    }
+    .header{
+        position: fixed;
+        z-index: 2px;
+        width: 100%;
+    }
+}
