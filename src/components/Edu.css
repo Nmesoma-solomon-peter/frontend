@@ -14,7 +14,7 @@
     font-size: 14px;
 }
 
-@media (min-width:400px) {
+@media (min-width:576px) {
     .edu{
         padding: 0px;
     }

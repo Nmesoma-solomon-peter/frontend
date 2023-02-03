@@ -34,7 +34,7 @@
 }
 
 /* ......................... */
-@media (max-width:400px) {
+@media (max-width:576px) {
     .eduskill{
         background-color: #212428;
         justify-content:space-between;

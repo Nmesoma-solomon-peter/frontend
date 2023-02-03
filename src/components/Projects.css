@@ -52,7 +52,7 @@
     --animate-delay: 0.9s;
   } */
 
-  @media (max-width:400px) {
+  @media (max-width:576px) {
     .kardimg{
         width:200px ;
     }

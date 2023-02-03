@@ -16,7 +16,7 @@
 border-bottom: 2px solid #D07C4C;
 }
 
-@media (max-width:400px) {
+@media (max-width:576px) {
     .navbar{
         padding: 1% 3%;
     }

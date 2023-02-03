@@ -9,7 +9,7 @@
   color: #fff;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 576px) {
     .submitbtn{
         margin-left: 25px;
         /* align-self: center; */

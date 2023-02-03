@@ -9,7 +9,7 @@
 .progress{
     width: 400px;
 }
-@media (max-width:400px) {
+@media (max-width:576px) {
     .skh5{
         font-size: 10px;
     }
