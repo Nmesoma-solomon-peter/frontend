@@ -2,12 +2,12 @@
     width: 100%;
     height: 3} */
 
-.contact2col {
+/* .contact2col {
   margin: 130px 150px;
 }
 .submitbtn:hover {
   color: #fff;
-}
+} */
 
 @media (max-width: 576px) {
     .submitbtn{

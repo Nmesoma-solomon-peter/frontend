@@ -11,19 +11,19 @@ function Contact() {
                     {/* <form>
                         <input></input>
                     </form> */}
-                    <form>
+                    <form action="https://getform.io/f/86c3a3a0-d5ca-4c9c-9af4-7dfdcc15dabd" method="POST">
                         <div className="mb-3">
                             <label for="name" className="form-label text-white">Name:</label>
-                            <input type="text" className="form-control" id="name" required />
+                            <input type="text" className="form-control" id="name" required name='name' />
                         </div>
                         <div className="mb-3">
                             <label for="exampleInputEmail1" className="form-label text-white">Email address:</label>
-                            <input type="email" className="form-control" required id="exampleInputEmail1" aria-describedby="emailHelp" />
+                            <input type="email" className="form-control" required id="exampleInputEmail1" aria-describedby="emailHelp" name='email'/>
                         </div>
 
                         <div class="mb-3">
                             <label for="exampleFormControlTextarea1" class="form-label text-white">Message:</label>
-                            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" name='message'></textarea>
                         </div>
 
                         <button type="submit" class="btn btn-lg btn-outline-secondary mt-4 submitbtn">Let's get in Touch</button>

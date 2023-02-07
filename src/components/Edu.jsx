@@ -20,7 +20,7 @@ function Edu() {
             </div>
 
 
-            <div className='row'>
+            <div className='row edu'>
                 <div className='col col-md-6 skilrow'>
                     <h3 className='skilh3'>Junior Secondary School</h3>
                     <h6>Unique Christian High School</h6>

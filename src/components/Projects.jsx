@@ -24,7 +24,7 @@ const Projects = () => {
                     <h2 className='text-white'>{console.log(inView)} </h2>
                     <div className='col col-md-4 '>
                         <div className={inView?' kardinner animate__animated animate__zoomIn animate__delay-1s': ''}>
-                            <a href='' style={{ textDecoration: 'none' }}>
+                            <a href='https://phantom-clone.web.app/' style={{ textDecoration: 'none' }}>
                                 <img src={phantom} alt='phantom-clone' className='kardimg' />
                                 <h4 className='text-white mt-5 proh4'>Phantom website clone</h4>
                             </a>

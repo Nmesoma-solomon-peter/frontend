@@ -1,3 +1,6 @@
+.edu{
+    padding: 10% 0 2%  0 ;
+}
 .skilrow{
     border-left:2px solid #D07C4C;
 }
@@ -11,11 +14,6 @@
     font-weight: 600;
 }
 .skilp{
-    font-size: 14px;
+    font-size: 0.9em;
 }
 
-@media (min-width:576px) {
-    .edu{
-        padding: 0px;
-    }
-}

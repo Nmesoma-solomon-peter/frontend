@@ -4,7 +4,7 @@ import "./Skil.css"
 function Skil() {
     return (
         <div>
-            <div>
+            <div className='skilbox'>
                 <div className='skil'>
                     <h5 className='skh5'>C Programing Language</h5>
                     <div>
@@ -85,14 +85,23 @@ function Skil() {
                         </div>
                     </div>
                 </div>
-                <div className='skil'>
+                {/* <div className='skil'>
                     <h5 className='skh5'>HTML</h5>
                     <div className='prog'>
                         <div className="progress" style={{ height: "5px" }}>
                             <div className="progress-bar" role="progressbar" aria-label="Example 20px high" style={{ width: "100%" }} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                         </div>
                     </div>
-                </div> 
+                </div>  */}
+
+                <div className='skil'>
+                    <h5 className='skh5'>HTML</h5>
+                    <div>
+                        <div className="progress" style={{ height: "5px" }}>
+                            <div className="progress-bar" role="progressbar" aria-label="Example 20px high" style={{ width: "100%" }} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                        </div>
+                    </div>
+                </div>
 
                 <div className='skil'>
                     <h5 className='skh5'>CSS 3</h5>
