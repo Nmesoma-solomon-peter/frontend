@@ -12,7 +12,7 @@ function Bio() {
                         </div>
                         <div className='bio__inner'>
                             <h6>Nationality:</h6>
-                            <p className='eduskillp'>Nigeria</p>
+                            <p className='eduskillp'>Nigerian</p>
                         </div>
                         <div className='bio__inner'>
                             <h6>Place of Residence:</h6>

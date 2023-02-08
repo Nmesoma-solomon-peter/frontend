@@ -7,6 +7,7 @@
 <li>And finally, Run "yarn dev". My portfolio its gonna load Up!!!!!!</li> 
 <ol>
 <h1>Wanna Contribute?</h1>
+
 <ul>
 <li>Fork the repo</li>
 <li>Add your contribution/s </li>
