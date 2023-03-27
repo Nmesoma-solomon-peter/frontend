@@ -29,7 +29,7 @@ function Aboutsec() {
                     </p>
                     <div className='buttonsec mt-5'>
                         <button type="button" class="btn white__btn btn-lg">
-                            <a href="src/assets/cv3.pdf" download="cv3.pdf" style={{ textDecoration: "none" }}>Download CV <i class="bi bi-file-earmark-arrow-down"></i></a>
+                            <a href="myCv.pdf" download="myCv.pdf" style={{ textDecoration: "none" }}>Download CV <i class="bi bi-file-earmark-arrow-down"></i></a>
                         </button>
                         <a href='#projects'>
                             <button type="button" class="btn outline__btn  btn-lg">See my works <span><i class="bi bi-arrow-right"></i></span></button>

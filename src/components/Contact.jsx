@@ -11,7 +11,8 @@ function Contact() {
                     {/* <form>
                         <input></input>
                     </form> */}
-                    <form action="https://getform.io/f/86c3a3a0-d5ca-4c9c-9af4-7dfdcc15dabd" method="POST">
+                    {/* <form action="https://getform.io/f/86c3a3a0-d5ca-4c9c-9af4-7dfdcc15dabd" method="POST"> */}
+                    <form action="https://getform.io/f/0dc42f90-0568-4397-9a88-1e7c0c3809b9" method="POST">
                         <div className="mb-3">
                             <label for="name" className="form-label text-white">Name:</label>
                             <input type="text" className="form-control" id="name" required name='name' />

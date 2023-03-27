@@ -2,10 +2,10 @@
     width: 100%;
     height: 3} */
 
-/* .contact2col {
-  margin: 130px 150px;
+.contact2col {
+  margin: 25% 30%;
 }
-.submitbtn:hover {
+/* .submitbtn:hover {
   color: #fff;
 } */
 
@@ -26,3 +26,5 @@
     margin-left: -10px;
   }
 }
+
+
